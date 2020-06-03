@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div>
-        Fiaz Ahmed
+        Fiaz Ahmed from Kuwait
       </div>
     </div>
   );
